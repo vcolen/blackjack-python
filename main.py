@@ -61,6 +61,6 @@ def blackjack():
     return
 
 
-while input("Do you want to play a game o black jack?(y/n)\n>> ") == "y":
+while input("Do you want to play a game of black jack?(y/n)\n>> ") == "y":
     print(logo)
     blackjack()
